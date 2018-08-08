@@ -1,0 +1,50 @@
+{
+    "schedule": [
+        {
+            "department": "Secret",
+            "date": "2018-06-12",
+            "slots": [
+                { 
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "employeeName": "John Joe"
+                },
+                { 
+                    "startTime": "07:00",
+                    "endTime": "11:00",
+                    "employeeName": "John Show"
+                },
+                { 
+                    "startTime": "11:00",
+                    "endTime": "16:00",
+                    "employeeName": "Michael Night"
+                },
+                { 
+                    "startTime": "16:00",
+                    "endTime": "19:00",
+                    "employeeName": "Peuter Parkour"
+                },
+                { 
+                    "startTime": "19:00",
+                    "endTime": "20:00",
+                    "employeeName": "Clerk Kant"
+                },
+                { 
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "employeeName": "SpongeBub"
+                },
+                { 
+                    "startTime": "21:00",
+                    "endTime": "23:00",
+                    "employeeName": "The Flush"
+                },
+                { 
+                    "startTime": "23:00",
+                    "endTime": "00:00",
+                    "employeeName": "Grim Arrow"
+                }
+            ]
+        }
+    ]
+}
