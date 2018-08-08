@@ -20,3 +20,12 @@
 
 ### BRANCHES
 master - 'production' - it must always be in a working state + all tests should be passing
+
+### HOW TO RUN
+yarn start
+yarn start-mockapi
+
+at the moment there is only data being displayed when the user selects the following fields:
+
+Department: Secret
+Schedule Date: 12/06/2018
